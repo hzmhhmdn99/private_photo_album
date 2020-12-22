@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342878961923",
+    "project_id": "photo-gallery-90e16",
+    "storage_bucket": "photo-gallery-90e16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342878961923:android:70afb6d7fcbe0d2073a936",
+        "android_client_info": {
+          "package_name": "com.hzmh.private_photo_album"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342878961923-n1i3fp4rbgdmri3h0c0igicqv31i5464.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy7jvf6xhhz0dC8Cn5JFrtjcHg3OQ_UvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342878961923-n1i3fp4rbgdmri3h0c0igicqv31i5464.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
